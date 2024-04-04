@@ -2,9 +2,8 @@
 
 #### Presented by Team Crikey!
 
-Band Together is a 4-player video game made using the [p5party↗](https://p5party.org/) library.
+Band Together is a 4-player video game made using the [p5.party↗](https://p5party.org/) library.
 
-<br>
 <br>
 <br>
 
@@ -15,9 +14,8 @@ Figure out how to return to the present, or remain forever trapped in a symphony
 
 Explore the room using WASD or arrow keys, unlock clues by interacting with items around you, solve the puzzle, and escape with your team before time runs out to win!
 
-### [CLICK HERE↗](https://rogec540.github.io/GameA/src/index.html) TO PLAY!
+### [CLICK HERE↗](https://rogec540.github.io/GameA/src/index.html) TO PLAY AND EXPLORE!
 
-<br>
 <br>
 <br>
 
@@ -31,7 +29,6 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 
 <img src="./src/images/p1.gif" alt="blue" width="150"/> <img src="./src/images/p2.gif" alt="red" width="150"/> <img src="./src/images/p3.gif" alt="green" width="150"/> <img src="./src/images/p4.gif" alt="yellow" width="150"/>
 
-<br>
 <br>
 <br>
 
@@ -55,13 +52,12 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 
 <br>
 <br>
-<br>
 
 ## Support/Contact
 
 ### Team Crikey!
 
-**Charlotte Rogers** Available on Github @ [rogec540↗](https://github.com/rogec540)\
+**Charlotte Rogers** Available on Github @ [charogerz↗](https://github.com/charogerz)\
 **Chloe Yiu** Available on Github @ [yiuchl↗](https://github.com/yiuchl)\
 **Emma Wu** Available on Github @ [ewwamu↗](https://github.com/ewwamu)
 
