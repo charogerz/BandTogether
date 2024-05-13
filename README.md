@@ -10,7 +10,7 @@ Figure out how to return to the present, or remain forever trapped in a symphony
 
 Explore the room using WASD or arrow keys, unlock clues by interacting with items around you, solve the puzzle, and escape with your team before time runs out to win!
 
-### [CLICK HERE↗](https://rogec540.github.io/GameA/src/index.html) TO PLAY AND EXPLORE!
+### [CLICK HERE↗](https://charogerz.github.io/BandTogether/src/index.html) TO PLAY AND EXPLORE!
 
 
 
