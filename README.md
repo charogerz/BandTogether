@@ -1,7 +1,5 @@
 # Band Together [^1]
 
-#### Presented by Team Crikey!
-
 Band Together is a 4-player video game made using the [p5.party↗](https://p5party.org/) library.
 
 <br>
@@ -55,7 +53,7 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 
 ## Support/Contact
 
-### Team Crikey!
+### Team Members:
 
 **Charlotte Rogers** Available on Github @ [charogerz↗](https://github.com/charogerz)\
 **Chloe Yiu** Available on Github @ [yiuchl↗](https://github.com/yiuchl)\
