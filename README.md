@@ -47,7 +47,7 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 
 <br>
 
-## Team Members:
+## Team Members
 
 **Charlotte Rogers** Available on Github @ [charogerz↗](https://github.com/charogerz)\
 **Chloe Yiu** Available on Github @ [yiuchl↗](https://github.com/yiuchl)\
