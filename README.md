@@ -14,7 +14,6 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 ### [CLICK HERE↗](https://rogec540.github.io/GameA/src/index.html) TO PLAY AND EXPLORE!
 
 <br>
-<br>
 
 ## Visuals
 
@@ -26,7 +25,6 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 
 <img src="./src/images/p1.gif" alt="blue" width="150"/> <img src="./src/images/p2.gif" alt="red" width="150"/> <img src="./src/images/p3.gif" alt="green" width="150"/> <img src="./src/images/p4.gif" alt="yellow" width="150"/>
 
-<br>
 <br>
 
 ## External Assets
@@ -48,11 +46,8 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
   - From: [YouTube Trumpet - Play Trumpet with computer Keyboard↗](https://youtu.be/xa17zHJhNhA?si=N5ctGNsioYnueP_6)
 
 <br>
-<br>
 
-## Support/Contact
-
-### Team Members:
+## Team Members:
 
 **Charlotte Rogers** Available on Github @ [charogerz↗](https://github.com/charogerz)\
 **Chloe Yiu** Available on Github @ [yiuchl↗](https://github.com/yiuchl)\
