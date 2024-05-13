@@ -1,6 +1,6 @@
 # Band Together [^1]
 
-Band Together is a 4-player video game made using the [p5.party↗](https://p5party.org/) library.
+Band Together is a 2- to 4-player cooperative game made using the [p5.party↗](https://p5party.org/) library.
 
 <br>
 
