@@ -2,7 +2,6 @@
 
 Band Together is a 2- to 4-player cooperative game made using the [p5.party↗](https://p5party.org/) library.
 
-<br>
 
 ## Instructions
 
@@ -13,7 +12,7 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 
 ### [CLICK HERE↗](https://rogec540.github.io/GameA/src/index.html) TO PLAY AND EXPLORE!
 
-<br>
+
 
 ## Visuals
 
@@ -21,11 +20,9 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 
 <img src="./src/images/start_screen.jpg" alt="startscreen" width="194"/> &nbsp; <img src="./src/images/map.png" alt="background" width="200"/> &nbsp; <img src="./src/images/portal.png" alt="background" height="200"/>
 
-<br>
 
 <img src="./src/images/p1.gif" alt="blue" width="150"/> <img src="./src/images/p2.gif" alt="red" width="150"/> <img src="./src/images/p3.gif" alt="green" width="150"/> <img src="./src/images/p4.gif" alt="yellow" width="150"/>
 
-<br>
 
 ## External Assets
 
@@ -45,7 +42,6 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 - Trumpet SFX
   - From: [YouTube Trumpet - Play Trumpet with computer Keyboard↗](https://youtu.be/xa17zHJhNhA?si=N5ctGNsioYnueP_6)
 
-<br>
 
 ## Team Members
 
@@ -53,6 +49,5 @@ Explore the room using WASD or arrow keys, unlock clues by interacting with item
 **Chloe Yiu** Available on Github @ [yiuchl↗](https://github.com/yiuchl)\
 **Emma Wu** Available on Github @ [ewwamu↗](https://github.com/ewwamu)
 
-<br>
 
 [^1]: _Made for Spring 2024 Collab: P5 Party by Charlotte Rogers, Chloe Yiu, and Emma Wu_
